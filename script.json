@@ -1,6 +1,6 @@
 {
     "HELLO": "Hi there!\nI’m the personal bot of GLG, a startup based in Berlin.\n![GLG](http://karriere.unicum.de/sites/default/files/styles/company_profile_logo/public/company_logos/logo_startup.png?itok=pdkvYHds)\nWant to know more about my social media research? %[Slack](postback:Slack) %[Whatsapp](postback:Whatsapp) %[Instagram](postback:Instagram)",
-    "SLACK": "Slack is a messaging app for teams/ It allows to organize your team conversations in open channels/ For sensitive information, create private channels and invite a few team members/ To reach a colleague directly, it allows to send them a Direct Message/ Whit fully native apps for iOS and Android, everything is in sync/ t allows to drag, drop, and share all your files (google drive, dropbox, ecc.) %[Who use slack?](postback:twitter)",
+    "SLACK": "Slack is a messaging app for teams\ It allows to organize your team conversations in open channels\ For sensitive information, create private channels and invite a few team members\ To reach a colleague directly, it allows to send them a Direct Message\ Whit fully native apps for iOS and Android, everything is in sync\ it allows to drag, drop, and share all your files (google drive, dropbox, ecc.) %[Who use slack?](postback:twitter)",
     "WHATSAPP": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "INSTAGRAM": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
