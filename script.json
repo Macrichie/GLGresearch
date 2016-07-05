@@ -1,6 +1,6 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of GLG, a a startup based in Berlin.\n![GLG](http://karriere.unicum.de/sites/default/files/styles/company_profile_logo/public/company_logos/logo_startup.png?itok=pdkvYHds)\nWant to know more about bots or learn about my social media research? %[Slack](postback:Slack) %[Whatsapp](postback:Whatsapp) %[Instagram](postback:Instagram)",
-    "Slack": "n![GLG](https://forger.typo3.org/_Resources/Static/Packages/WMDB.Forger/images/slack.svg)",
+    "BOT": "Hi there!\nI’m the personal bot of GLG, a startup based in Berlin.\n![GLG](http://karriere.unicum.de/sites/default/files/styles/company_profile_logo/public/company_logos/logo_startup.png?itok=pdkvYHds)\nWant to know more about my social media research? %[Slack](postback:Slack) %[Whatsapp](postback:Whatsapp) %[Instagram](postback:Instagram)",
+    "SLACK": "n![GLG](https://forger.typo3.org/_Resources/Static/Packages/WMDB.Forger/images/slack.svg)",
     "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
